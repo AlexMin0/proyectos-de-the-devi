@@ -1,0 +1,39 @@
+tom y jerry
+
+requisitos
+ -usar visual estudio
+ -tener python(3.x)
+ -ejecutar en una carpeta .py(python)
+
+lo entendedido del proyecto
+    que teniammos que hacer un juego donde el raton debia de comer x cantidad de queso 
+ y escapar del gato que tendria una inteligecia de minimax con la cual te attrapa y pierdes el juego.
+
+dificultad 
+    el implementar el minimax no podia implementar siempre habia algo que
+ no me funcionaba hacique tocaba cambiar a cada rato
+
+logro
+    el enterarme que mi problema era el espacio del tablelo y posicion de los obstaculos 
+ no el minimax que no funcionaba
+
+juego
+ -es un tablero fijo de 5x5
+-los personajes bienen determinado en cierta ubicacion fija
+ -el queso esta determinado en el mapa y llos obstaculos de igual forma
+
+odjetivo
+ -comer los 3 quesos ubicados en el tablero
+ -tener cuidado que el gato no te atrape 
+-desbloquear el movimiento en diagonal al comer 2 quesos
+ -ganas cuando comas todos los quesos-pierdes cuando el gato te atrapa
+
+mi ulmilde opinion
+    fue un desafio interesante ya que fuciono estres con anciedad y un poco de desesperacion pero sobre todos
+ dio gusto el estar rompiendome la cabeza para solucionar un problema y crear otro pero sobre todo aprender a la vez
+ muchaas de las coasas que hice en este desafio no sabia de que existian y ni que hacian es por eso que probe
+ ciertas coasas nuevas en este codigo que fuero utiles.
+
+
+
+
