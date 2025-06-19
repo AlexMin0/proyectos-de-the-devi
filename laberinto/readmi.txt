@@ -1,0 +1,19 @@
+para correr codigo
+    debemos de llamar estas librerias
+        #include <iostream>    //entrada y salida
+        #include <vector>      //vector de vectores
+        #include <queue>       // cola para BFS
+        #include <cstdlib>     // funciones aleatorias
+        #include <ctime>        // para inicializar la semilla del mundo 
+
+Cómo generaste el laberinto.
+    lo genere con algo parecido a lo que tenemos en python que seria listas de listas y en 
+    c++ estaria siendo un vector de vectores con carateres y definiendo un tamano adaptable
+
+
+Qué algoritmo usaste para resolverlo?
+    el algoritmo que use ppara rsulver el laberinto es el bfs para que me valla probando los caminos hasta desifrar la salida
+
+de que trata el juego
+    trata de que se cree un laberinto nnuevo cada que se vuelva a ejecutar y que en pueda un algoritmo resulver o mas bien
+    dichho desifrar la salida del saberinto 
